@@ -36,6 +36,7 @@ steps:
     provider: 'azurerm'
     command: 'destroy'
     workingDirectory: '$(System.DefaultWorkingDirectory)/01-terraform'
+    commandOptions: 'force-unlock 9f3abc82-d1a7-7f2b-a174-89e0b061241c'
     environmentServiceNameAzureRM: 'Visual Studio Enterprise – MPN(b264c09a-1b68-4202-8469-736ce800d110)'
 
 #- task: AzureCLI@2
