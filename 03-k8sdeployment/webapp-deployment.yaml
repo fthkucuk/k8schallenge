@@ -54,4 +54,4 @@ spec:
     name: samplewebapp
   minReplicas: 1
   maxReplicas: 30
-  targetCPUUtilizationPercentage: 50
+  targetCPUUtilizationPercentage: 25
