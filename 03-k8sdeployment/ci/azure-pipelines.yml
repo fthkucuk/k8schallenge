@@ -16,7 +16,7 @@ steps:
     azureSubscriptionEndpoint: 'Visual Studio Enterprise – MPN(b264c09a-1b68-4202-8469-736ce800d110)'
     azureResourceGroup: 'sample-rg'
     kubernetesCluster: 'sample-aks'
-    command: 'delete'
+    command: 'apply'
     arguments: '-f webapp-deployment.yaml'
     secretType: 'dockerRegistry'
     containerRegistryType: 'Azure Container Registry'
