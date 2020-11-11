@@ -1,2 +1,2 @@
-appId    = "69d4b264-7047-4066-8419-a5ef7445996b"
-password = "pxEZrrE_3~ivnEFA9tyW~SKCEmqvt8Aofa"
+appId    = "e88edeef-103a-4ff6-957d-8e7dfcfa6fc5"
+password = "km.2qvug~MB6aSAU-3-C7cpfBOaBh23AdD"
